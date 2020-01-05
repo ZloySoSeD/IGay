@@ -1,0 +1,1 @@
+java -Xms512M -Xmx1024M -jar -Dfile.encoding=UTF-8 spigot-1.12.2.jar nogui
